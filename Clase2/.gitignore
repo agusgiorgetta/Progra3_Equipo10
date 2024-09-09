@@ -1,0 +1,4 @@
+# Ignorar configuración de Eclipse
+.classpath
+.project
+.settings/
